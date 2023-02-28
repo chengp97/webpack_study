@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[21],{405:(e,n,c)=>{var s=c(784),t=c.n(s);const d=document.createElement("div");d.innerHTML=t().join(["Hello","静态引入"]," "),document.body.appendChild(d)}},e=>{e.O(0,[216],(()=>(405,e(e.s=405)))),e.O()}]);

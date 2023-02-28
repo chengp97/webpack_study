@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_study=self.webpackChunkwebpack_study||[]).push([[21],{802:(e,u,a)=>{var d,t=(d=a(486))&&d.__esModule?d:{default:d};var n=document.createElement("div");n.innerHTML=t.default.join(["Hello","静态引入"]," "),document.body.appendChild(n)}},e=>{e.O(0,[216],(()=>{return u=802,e(e.s=u);var u}));e.O()}]);
