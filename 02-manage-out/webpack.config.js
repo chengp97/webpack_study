@@ -1,6 +1,5 @@
 const path = require('path')
 const HtmlWepackPlugin = require("html-webpack-plugin")
-const { Template } = require('webpack')
 module.exports = {
     entry: "./src/index.js",
     output: {
@@ -20,6 +19,6 @@ module.exports = {
             inject: 'body'
         })
     ],
-    mode: "development",
+    mode: "production",
 
 }

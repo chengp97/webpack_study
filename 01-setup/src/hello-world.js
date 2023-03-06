@@ -1,6 +1,4 @@
 // esm
-function helloWorld() {
+export default function () {
     console.log("helloWorld")
 }
-
-export default helloWorld
